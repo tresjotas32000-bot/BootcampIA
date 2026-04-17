@@ -1,0 +1,101 @@
+﻿ID;Modelo;Año;Tipo de Falla;Descripción;Kilometraje (km);Gravedad;Costo Estimado (USD)
+1;Land Cruiser;2009;Sistema eléctrico;Falla reportada en componente clave del sistema;188197;Alta;2146
+2;RAV4;2023;Sistema eléctrico;Falla reportada en componente clave del sistema;33882;Media;572
+3;Fortuner;2011;Motor;Falla reportada en componente clave del sistema;130220;Baja;366
+4;RAV4;2017;Sistema eléctrico;Falla reportada en componente clave del sistema;66378;Alta;1302
+5;Yaris;2009;Frenos;Falla reportada en componente clave del sistema;141687;Crítica;2230
+6;Land Cruiser;2017;Transmisión;Falla reportada en componente clave del sistema;132828;Baja;2305
+7;Camry;2018;Transmisión;Falla reportada en componente clave del sistema;249779;Crítica;1124
+8;Corolla;2016;Dirección;Falla reportada en componente clave del sistema;180179;Media;3750
+9;Corolla;2010;Transmisión;Falla reportada en componente clave del sistema;245670;Alta;1092
+10;RAV4;2024;Frenos;Falla reportada en componente clave del sistema;104430;Crítica;505
+11;RAV4;2015;Motor;Falla reportada en componente clave del sistema;155456;Alta;4895
+12;Fortuner;2014;Frenos;Falla reportada en componente clave del sistema;16597;Baja;3165
+13;Corolla;2009;Frenos;Falla reportada en componente clave del sistema;130527;Alta;1191
+14;Camry;2019;Transmisión;Falla reportada en componente clave del sistema;115428;Baja;781
+15;Prado;2014;Transmisión;Falla reportada en componente clave del sistema;87162;Media;2913
+16;Prado;2017;Suspensión;Falla reportada en componente clave del sistema;79897;Crítica;2723
+17;Prado;2005;Sistema eléctrico;Falla reportada en componente clave del sistema;234150;Baja;3955
+18;Yaris;2016;Dirección;Falla reportada en componente clave del sistema;57569;Media;3969
+19;Prado;2012;Frenos;Falla reportada en componente clave del sistema;150273;Baja;3449
+20;RAV4;2015;Sistema eléctrico;Falla reportada en componente clave del sistema;76276;Crítica;3141
+21;Land Cruiser;2019;Frenos;Falla reportada en componente clave del sistema;92409;Baja;400
+22;RAV4;2012;Suspensión;Falla reportada en componente clave del sistema;26231;Baja;833
+23;Prado;2024;Suspensión;Falla reportada en componente clave del sistema;28413;Baja;2588
+24;Fortuner;2009;Sistema eléctrico;Falla reportada en componente clave del sistema;97320;Media;2889
+25;Corolla;2012;Transmisión;Falla reportada en componente clave del sistema;90804;Crítica;1858
+26;Yaris;2009;Transmisión;Falla reportada en componente clave del sistema;110346;Media;2693
+27;Camry;2012;Dirección;Falla reportada en componente clave del sistema;76625;Alta;921
+28;Corolla;2023;Suspensión;Falla reportada en componente clave del sistema;92731;Alta;4785
+29;Corolla;2012;Transmisión;Falla reportada en componente clave del sistema;136619;Baja;2131
+30;Yaris;2024;Dirección;Falla reportada en componente clave del sistema;249316;Alta;305
+31;Corolla;2020;Frenos;Falla reportada en componente clave del sistema;217865;Crítica;4396
+32;Land Cruiser;2006;Motor;Falla reportada en componente clave del sistema;214345;Alta;3040
+33;Fortuner;2023;Dirección;Falla reportada en componente clave del sistema;229852;Alta;4292
+34;Hilux;2023;Motor;Falla reportada en componente clave del sistema;34240;Crítica;123
+35;RAV4;2018;Frenos;Falla reportada en componente clave del sistema;129930;Media;145
+36;Yaris;2011;Sistema eléctrico;Falla reportada en componente clave del sistema;179826;Media;3004
+37;Yaris;2005;Motor;Falla reportada en componente clave del sistema;216268;Media;2670
+38;Land Cruiser;2013;Suspensión;Falla reportada en componente clave del sistema;78896;Alta;4390
+39;Prado;2013;Suspensión;Falla reportada en componente clave del sistema;53035;Media;2192
+40;Yaris;2020;Transmisión;Falla reportada en componente clave del sistema;44435;Media;680
+41;RAV4;2020;Frenos;Falla reportada en componente clave del sistema;64047;Alta;4059
+42;Yaris;2008;Motor;Falla reportada en componente clave del sistema;137310;Media;2683
+43;Yaris;2010;Transmisión;Falla reportada en componente clave del sistema;38576;Alta;2774
+44;Yaris;2016;Transmisión;Falla reportada en componente clave del sistema;231898;Alta;3775
+45;Hilux;2017;Suspensión;Falla reportada en componente clave del sistema;223798;Media;4842
+46;Corolla;2007;Transmisión;Falla reportada en componente clave del sistema;124844;Crítica;802
+47;Land Cruiser;2022;Dirección;Falla reportada en componente clave del sistema;93012;Baja;3597
+48;RAV4;2012;Frenos;Falla reportada en componente clave del sistema;243670;Media;207
+49;Corolla;2014;Suspensión;Falla reportada en componente clave del sistema;204479;Crítica;3728
+50;Corolla;2024;Suspensión;Falla reportada en componente clave del sistema;21774;Media;1877
+51;Prado;2018;Suspensión;Falla reportada en componente clave del sistema;246372;Baja;3170
+52;RAV4;2017;Dirección;Falla reportada en componente clave del sistema;14046;Alta;2782
+53;Yaris;2015;Sistema eléctrico;Falla reportada en componente clave del sistema;191929;Media;2187
+54;Hilux;2016;Suspensión;Falla reportada en componente clave del sistema;177554;Media;2803
+55;Corolla;2012;Frenos;Falla reportada en componente clave del sistema;19608;Baja;1653
+56;Yaris;2012;Transmisión;Falla reportada en componente clave del sistema;222036;Crítica;2032
+57;Yaris;2012;Transmisión;Falla reportada en componente clave del sistema;37349;Crítica;3539
+58;RAV4;2014;Sistema eléctrico;Falla reportada en componente clave del sistema;234512;Crítica;1514
+59;Fortuner;2013;Sistema eléctrico;Falla reportada en componente clave del sistema;196008;Crítica;1204
+60;Fortuner;2018;Dirección;Falla reportada en componente clave del sistema;13740;Baja;4421
+61;Land Cruiser;2020;Frenos;Falla reportada en componente clave del sistema;147126;Baja;1517
+62;Land Cruiser;2005;Transmisión;Falla reportada en componente clave del sistema;32330;Alta;2109
+63;Land Cruiser;2024;Motor;Falla reportada en componente clave del sistema;218927;Alta;4238
+64;Camry;2020;Sistema eléctrico;Falla reportada en componente clave del sistema;89502;Media;1790
+65;Land Cruiser;2013;Dirección;Falla reportada en componente clave del sistema;66372;Media;1350
+66;Yaris;2006;Transmisión;Falla reportada en componente clave del sistema;230931;Baja;2556
+67;Fortuner;2007;Frenos;Falla reportada en componente clave del sistema;247076;Alta;2722
+68;Prado;2009;Sistema eléctrico;Falla reportada en componente clave del sistema;58300;Baja;2847
+69;Camry;2015;Suspensión;Falla reportada en componente clave del sistema;239437;Crítica;728
+70;Fortuner;2024;Dirección;Falla reportada en componente clave del sistema;78093;Crítica;3097
+71;Yaris;2008;Motor;Falla reportada en componente clave del sistema;120366;Crítica;4926
+72;Yaris;2011;Frenos;Falla reportada en componente clave del sistema;230511;Alta;4057
+73;Hilux;2008;Transmisión;Falla reportada en componente clave del sistema;105594;Baja;1651
+74;Yaris;2010;Suspensión;Falla reportada en componente clave del sistema;177935;Alta;1486
+75;Yaris;2013;Suspensión;Falla reportada en componente clave del sistema;235820;Baja;1554
+76;Camry;2020;Frenos;Falla reportada en componente clave del sistema;172704;Media;4665
+77;Yaris;2008;Frenos;Falla reportada en componente clave del sistema;238902;Alta;4574
+78;Fortuner;2014;Motor;Falla reportada en componente clave del sistema;153651;Baja;2679
+79;Prado;2007;Sistema eléctrico;Falla reportada en componente clave del sistema;102319;Baja;4997
+80;Camry;2021;Dirección;Falla reportada en componente clave del sistema;232742;Crítica;1255
+81;Hilux;2017;Motor;Falla reportada en componente clave del sistema;234456;Crítica;4898
+82;Hilux;2019;Sistema eléctrico;Falla reportada en componente clave del sistema;178574;Alta;4956
+83;Hilux;2005;Transmisión;Falla reportada en componente clave del sistema;81933;Alta;676
+84;Camry;2016;Sistema eléctrico;Falla reportada en componente clave del sistema;7412;Media;411
+85;Land Cruiser;2024;Suspensión;Falla reportada en componente clave del sistema;235657;Media;723
+86;Prado;2013;Transmisión;Falla reportada en componente clave del sistema;214615;Baja;3629
+87;Yaris;2005;Transmisión;Falla reportada en componente clave del sistema;106219;Alta;3066
+88;Fortuner;2010;Suspensión;Falla reportada en componente clave del sistema;219315;Alta;3070
+89;Camry;2013;Sistema eléctrico;Falla reportada en componente clave del sistema;110326;Baja;4095
+90;Prado;2019;Sistema eléctrico;Falla reportada en componente clave del sistema;136255;Media;1197
+91;Yaris;2010;Transmisión;Falla reportada en componente clave del sistema;125687;Media;2777
+92;RAV4;2006;Dirección;Falla reportada en componente clave del sistema;63288;Alta;4666
+93;Land Cruiser;2009;Sistema eléctrico;Falla reportada en componente clave del sistema;37941;Alta;4450
+94;Prado;2016;Dirección;Falla reportada en componente clave del sistema;104585;Crítica;3052
+95;Hilux;2014;Motor;Falla reportada en componente clave del sistema;111175;Baja;370
+96;Fortuner;2019;Motor;Falla reportada en componente clave del sistema;13204;Media;2678
+97;Prado;2007;Motor;Falla reportada en componente clave del sistema;59308;Baja;2198
+98;Yaris;2018;Frenos;Falla reportada en componente clave del sistema;117335;Baja;4623
+99;Yaris;2005;Transmisión;Falla reportada en componente clave del sistema;166756;Crítica;4364
+100;Hilux;2024;Transmisión;Falla reportada en componente clave del sistema;37343;Crítica;3090
